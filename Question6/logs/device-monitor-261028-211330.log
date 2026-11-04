@@ -1,0 +1,150 @@
+21:13:30.812 > burn time = 2000
+21:13:30.821 > task 1 running
+21:13:31.814 > task 3 running
+21:13:35.800 > burn time = 999
+21:13:35.810 > task 1 running
+21:13:36.799 > task 4 running
+21:13:40.798 > burn time = 0
+21:13:45.796 > burn time = 5000
+21:13:45.802 > task 1 running
+21:13:46.795 > task 2 running
+21:13:50.790 > burn time = 2000
+21:13:50.791 > task 1 running
+21:13:51.790 > task 3 running
+21:13:55.784 > burn time = 1000
+21:13:55.785 > task 1 running
+21:13:56.783 > task 4 running
+21:14:00.778 > burn time = 0
+21:14:05.769 > burn time = 5000
+21:14:05.769 > task 1 running
+21:14:06.771 > task 2 running
+21:14:10.766 > burn time = 2000
+21:14:10.767 > task 1 running
+21:14:11.761 > task 3 running
+21:14:15.760 > burn time = 1000
+21:14:15.760 > task 1 running
+21:14:16.756 > task 4 running
+21:14:20.748 > burn time = 0
+21:14:25.745 > burn time = 5000
+21:14:25.747 > task 1 running
+21:14:26.744 > task 2 running
+21:14:30.742 > burn time = 2000
+21:14:30.747 > task 1 running
+21:14:31.740 > task 3 running
+21:14:35.735 > burn time = 1000
+21:14:35.736 > task 1 running
+21:14:36.734 > task 4 running
+21:14:40.722 > burn time = 0
+21:14:45.724 > burn time = 5000
+21:14:45.724 > task 1 running
+21:14:46.722 > task 2 running
+21:14:50.717 > burn time = 2000
+21:14:50.717 > task 1 running
+21:14:51.716 > task 3 running
+21:14:55.711 > burn time = 1000
+21:14:55.713 > task 1 running
+21:14:56.710 > task 4 running
+21:15:00.699 > burn time = 0
+21:15:05.699 > burn time = 5000
+21:15:05.700 > task 1 running
+21:15:06.698 > task 2 running
+21:15:10.691 > burn time = 2000
+21:15:10.691 > task 1 running
+21:15:11.688 > task 3 running
+21:15:15.687 > burn time = 1000
+21:15:15.688 > task 1 running
+21:15:16.686 > task 4 running
+21:15:20.673 > burn time = 0
+21:15:25.668 > burn time = 5000
+21:15:25.677 > task 1 running
+21:15:26.671 > task 2 running
+21:15:30.667 > burn time = 1999
+21:15:30.667 > task 1 running
+21:15:31.668 > task 3 running
+21:15:35.660 > burn time = 999
+21:15:35.660 > task 1 running
+21:15:36.660 > task 4 running
+21:15:40.658 > burn time = 0
+21:15:45.652 > burn time = 5000
+21:15:45.652 > task 1 running
+21:15:46.651 > task 2 running
+21:15:50.644 > burn time = 2000
+21:15:50.644 > task 1 running
+21:15:51.637 > task 3 running
+21:15:55.640 > burn time = 1000
+21:15:55.640 > task 1 running
+21:15:56.639 > task 4 running
+21:16:00.633 > burn time = 0
+21:16:05.628 > burn time = 5000
+21:16:05.629 > task 1 running
+21:16:06.620 > task 2 running
+21:16:10.621 > burn time = 2000
+21:16:10.621 > task 1 running
+21:16:11.620 > task 3 running
+21:16:15.614 > burn time = 1000
+21:16:15.615 > task 1 running
+21:16:16.613 > task 4 running
+21:16:20.608 > burn time = 0
+21:16:25.603 > burn time = 5000
+21:16:25.605 > task 1 running
+21:16:26.603 > task 2 running
+21:16:30.598 > burn time = 2000
+21:16:30.598 > task 1 running
+21:16:31.595 > task 3 running
+21:16:35.584 > burn time = 1000
+21:16:35.584 > task 1 running
+21:16:36.589 > task 4 running
+21:16:40.582 > burn time = 0
+21:16:45.579 > burn time = 5000
+21:16:45.582 > task 1 running
+21:16:46.578 > task 2 running
+21:16:50.568 > burn time = 2000
+21:16:50.575 > task 1 running
+21:16:51.569 > task 3 running
+21:16:55.559 > burn time = 999
+21:16:55.559 > task 1 running
+21:16:56.559 > task 4 running
+21:17:00.561 > burn time = 0
+21:17:05.550 > burn time = 5000
+21:17:05.550 > task 1 running
+21:17:06.553 > task 2 running
+21:17:10.549 > burn time = 2000
+21:17:10.550 > task 1 running
+21:17:11.549 > task 3 running
+21:17:15.540 > burn time = 1000
+21:17:15.545 > task 1 running
+21:17:16.543 > task 4 running
+21:17:20.539 > burn time = 0
+21:17:25.529 > burn time = 5000
+21:17:25.533 > task 1 running
+21:17:26.532 > task 2 running
+21:17:30.527 > burn time = 2000
+21:17:30.530 > task 1 running
+21:17:31.525 > task 3 running
+21:17:35.521 > burn time = 1000
+21:17:35.522 > task 1 running
+21:17:36.513 > task 4 running
+21:17:40.514 > burn time = 0
+21:17:45.504 > burn time = 5000
+21:17:45.509 > task 1 running
+21:17:46.505 > task 2 running
+21:17:50.500 > burn time = 2000
+21:17:50.503 > task 1 running
+21:17:51.500 > task 3 running
+21:17:55.496 > burn time = 1000
+21:17:55.498 > task 1 running
+21:17:56.493 > task 4 running
+21:18:00.489 > burn time = 0
+21:18:05.477 > burn time = 5000
+21:18:05.477 > task 1 running
+21:18:06.481 > task 2 running
+21:18:10.476 > burn time = 2000
+21:18:10.480 > task 1 running
+21:18:11.475 > task 3 running
+21:18:15.472 > burn time = 1000
+21:18:15.474 > task 1 running
+21:18:16.469 > task 4 running
+21:18:20.464 > burn time = 0
+21:18:25.457 > burn time = 5000
+21:18:25.458 > task 1 running
+21:18:26.456 > task 2 running
